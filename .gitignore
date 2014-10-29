@@ -1,0 +1,14 @@
+project/project
+project/target
+dist
+target
+.settings
+.classpath
+.project
+dist
+lib_managed
+.idea
+*.iml
+*.ipr
+*.iws
+/bin
